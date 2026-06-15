@@ -3,8 +3,6 @@
 import React from "react";
 import Home from "./Home";
 import Navbar from "./Navbar";
-// import Userefhook from "./Userefhook";
-import UserForm from "./Form";
 import Demo from "./Demo";
 
 const App = () => {
@@ -14,8 +12,6 @@ const App = () => {
       <div>App</div>
       <h1>This is heading tag</h1>
       <Home/>
-      {/* <Userefhook/> */}
-      {/* <UserForm/> */}
       <Demo/>
 
     </div>
