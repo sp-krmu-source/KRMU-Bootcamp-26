@@ -9,6 +9,9 @@ function App() {
     salary: "",
   });
 
+
+  // const API_URL = "https://localhost:5100/employee";
+  //replace the local host with deployed backend render link
   const API_URL = "https://ems-backend-ackm.onrender.com/employee";
 
   // FETCH EMPLOYEES
